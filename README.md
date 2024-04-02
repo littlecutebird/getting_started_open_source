@@ -69,6 +69,8 @@ You're now on the new branch `my_pretty_branch_for_pr_1` and ready to work!
 
 Find the file you want to modify and modify it. Change the code, etc... I won't detail here how to run the test suite as it's optional in open source projects. Especially if the modification is small. A server will run some tests for you anyway. So let's go on.
 
+[longnn] I modified this readme for testing purpose.
+
 ### Step 5: Push your branch
 
 This is quite simple:
