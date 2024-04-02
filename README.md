@@ -127,6 +127,8 @@ There are nowadays many CI providers: Travis CI, CircleCI, Azure pilelines, Gith
 
 ### Step 8 (optional): Add more commits to your pull request
 
+[longnn] Some more edit
+
 The pull request is now done, but there is still the code review. You might need to wait for a few days until a maintainer reviews your code. 
 
 Once the maintainer does, if everything is good, you'll get some thanks and your pull request will be merged.
